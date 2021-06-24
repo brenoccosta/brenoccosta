@@ -6,7 +6,7 @@
 - I’m looking for opportunities to develop my skills in any of the mentioned areas above, with or without formal commitment.
 - Feel free to contact me through here (GitHub).
 
-Among my previous non-related with programming experiences (such as in History), I've  teached, studied Bronze Age Aegean and Eastern Mediterrean Sea societies and cultural interchanges, such as the role of violence and how it embedded Dark Age Greece's heroes and deities, being *Iliad* my main document, as long many other ancient texts related to the theme.
+Among my previous experiences non-related with programming  (such as in History), I've  teached, studied Bronze Age Aegean and Eastern Mediterrean Sea societies and cultural interchanges, such as the role of violence and how it embedded Dark Age Greece's heroes and deities, being *Iliad* my main document, as long many other ancient texts related to the theme.
 
 For now, most of my repository will be in my native language (portuguese), so I beg your pardon; it's enough for my purposes.
 
