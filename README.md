@@ -6,6 +6,8 @@
 - I’m looking for opportunities to develop my skills in any of the mentioned areas above, with or without formal commitment.
 - Feel free to contact me through here (GitHub).
 
+Among my previous non-related with programming experiences (such as in History), I've  teached, studied Bronze Age Aegean and Eastern Mediterrean Sea societies and cultural interchanges, such as the role of violence and how it embedded Dark Age Greece's heroes and deities, being *Iliad* my main document, as long many other ancient texts related to the theme.
+
 <!---
 brenoccosta/brenoccosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
